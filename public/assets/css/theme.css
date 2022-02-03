@@ -1,0 +1,67 @@
+/* Theme default style */
+:root{
+/* define app major colors */
+--primaryColor: rgb(29, 155, 240);
+--secondaryColor: rgb(21, 32, 43);
+  /* pri sec color opacity */
+--primaryColor-100: rgb(29, 155, 240,0.1);
+--primaryColor-200: rgb(29, 155, 240,0.2);
+--primaryColor-300: rgb(29, 155, 240,0.3);
+--primaryColor-400: rgb(29, 155, 240,0.4);
+--primaryColor-500: rgb(29, 155, 240,0.5);
+--primaryColor-600: rgb(29, 155, 240,0.6);
+--primaryColor-700: rgb(29, 155, 240,0.7);
+--primaryColor-800: rgb(29, 155, 240,0.8);
+
+--secondaryColor-100: rgb(21, 32, 43,0.1);
+--secondaryColor-200: rgb(21, 32, 43,0.2);
+--secondaryColor-300: rgb(21, 32, 43,0.3);
+--secondaryColor-400: rgb(21, 32, 43,0.4);
+--secondaryColor-500: rgb(21, 32, 43,0.5);
+--secondaryColor-600: rgb(21, 32, 43,0.6);
+--secondaryColor-700: rgb(21, 32, 43,0.7);
+--secondaryColor-800: rgb(21, 32, 43,0.8);
+
+/* app additional colors */
+--customColor-1: rgb(255, 255, 255);
+--customColor-2: rgb(25, 39, 52);
+--customColor-3: rgb(243, 67, 28);
+/* custom colors opacity */
+--customColor-1-100: rgb(255, 255, 255,0.1);
+--customColor-1-200: rgb(255, 255, 255,0.2);
+--customColor-1-300: rgb(255, 255, 255,0.3);
+--customColor-1-400: rgb(255, 255, 255,0.4);
+--customColor-1-500: rgb(255, 255, 255,0.5);
+--customColor-1-600: rgb(255, 255, 255,0.6);
+--customColor-1-700: rgb(255, 255, 255,0.7);
+--customColor-1-800: rgb(255, 255, 255,0.8);
+
+--customColor-2-100: rgb(25, 39, 52,0.1);
+--customColor-2-200: rgb(25, 39, 52,0.2);
+--customColor-2-300: rgb(25, 39, 52,0.3);
+--customColor-2-400: rgb(25, 39, 52,0.4);
+--customColor-2-500: rgb(25, 39, 52,0.5);
+--customColor-2-600: rgb(25, 39, 52,0.6);
+--customColor-2-700: rgb(25, 39, 52,0.7);
+--customColor-2-800: rgb(25, 39, 52,0.8);
+
+--customColor-3-100: rgb(243, 67, 28, 0.1);
+--customColor-3-200: rgb(243, 67, 28, 0.2);
+--customColor-3-300: rgb(243, 67, 28, 0.3);
+--customColor-3-400: rgb(243, 67, 28, 0.4);
+--customColor-3-500: rgb(243, 67, 28, 0.5);
+--customColor-3-600: rgb(243, 67, 28, 0.6);
+--customColor-3-700: rgb(243, 67, 28, 0.7);
+--customColor-3-800: rgb(243, 67, 28, 0.8);
+
+/* default font sizes */
+--fontSize-xs: .75rem;
+--fontSize-sm: .875rem;
+--fontSize-md: 1rem;
+--fontSize-lg: 1.125rem;
+--fontSize-xl: 1.25rem;
+/* default font families */
+--primaryFontFamily: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+--secondaryFomtFamily: "Poppins", sans-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+--otherFontFamily: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}

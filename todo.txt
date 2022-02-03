@@ -1,0 +1,24 @@
+1. FEATURES
+
+- Providers
+- routing
+- ORM
+- Http component
+- Middle-wares
+- pipeline
+- Settings
+- Support
+- Container
+- Exceptions Handler
+- Events, Listeners
+- Session
+- Validation
+- Hashing
+- Authentication
+- views
+- Authorization - Gate, Policies,
+- Files - images, other files
+- Mail - PHP mailer
+- ajax navigation
+
+2. UPDATES
